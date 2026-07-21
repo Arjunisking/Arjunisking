@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Arjun Prakash Verma</h1>
+<h1>Hi, I'm Bilal Shakeel</h1>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img
