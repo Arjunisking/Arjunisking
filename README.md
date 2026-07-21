@@ -24,11 +24,15 @@ alt="Profile views"
 
 ## About Me
 
+* Entrepreneur and Revenue Intelligence Analyst passionate about building impactful technology.
+* Pursuing a BS in Management & Data Science at IIT Madras.
+  Studied Computer Science through the BITS Pilani x Coursera program.
 * I build automation workflows using n8n, APIs, webhooks, and AI tools.
-* I develop websites and applications using Next.js, React, Node.js, and Supabase.
-* I am currently learning application security, secure coding, and system design.
-* I am exploring AI agents, coding agents, and production-ready AI systems.
-* I prefer learning by building and testing real projects.
+* I develop full stack applications using Next.js, React, Node.js, and Supabase.
+* Currently exploring AI agents, secure coding, system design, and production-ready AI systems.
+* Interested in startups, business strategy, and technology-driven innovation.
+* I believe in learning by building, shipping, and solving real-world problems.
+* Open to collaborating on AI, SaaS, automation, and startup projects.
 * You can find my projects in my [GitHub repositories](https://github.com/Arjunisking?tab=repositories).
 
 ---
